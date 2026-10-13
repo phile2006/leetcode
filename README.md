@@ -38,7 +38,7 @@ python arrays-hashing/0001-two-sum.py
 
 | Easy | Medium | Hard | Total |
 |:---:|:---:|:---:|:---:|
-| 0 | 0 | 0 | 0 |
+| 2 | 1 | 0 | 0 |
 
 ## Conventions
 
